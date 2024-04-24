@@ -1,4 +1,4 @@
-<pre><code>
+<pre lang=c#><code>
   namespace _3._2._1_DataTypes
 {
     internal class Program
