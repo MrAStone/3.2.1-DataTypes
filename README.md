@@ -1,3 +1,4 @@
+<pre><code>
 namespace _3._2._1_DataTypes
 {
     internal class Program
@@ -30,3 +31,4 @@ namespace _3._2._1_DataTypes
         }
     }
 }
+</code></pre>
