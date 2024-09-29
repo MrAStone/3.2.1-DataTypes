@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // integer
+            // integer  
             int myNumber;
             myNumber = 10;
             int myNumber2 = 20;
